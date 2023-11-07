@@ -1,4 +1,3 @@
-# Sowmiya
 <h1 align="center">Hi 👋, I'm Sowmiya</h1>
 <h3 align="center">I am a full-stack software engineer and python Devloper. I love programming, reading. As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
@@ -20,6 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sowmiya-palani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sowmiya-palani" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/@sowmiyapalani63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sowmiyapalani63" height="30" width="40" /></a>
 </p>
 
